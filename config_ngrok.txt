@@ -1,0 +1,3 @@
+sudo apt install ngrok
+ngrok config add-authtoken your_key
+ngrok http 7000

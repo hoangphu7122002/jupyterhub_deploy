@@ -1,0 +1,20 @@
+# Ignore Jupyter runtime directories
+.local/share/jupyter/runtime/
+.local/
+# Ignore IPython files
+.ipython/
+
+# Ignore .bash_history files
+.bash_history
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore user-specific directories
+alice/
+bob/
+minhnh/
+phundh/
+
+# Ignore other directories that might be related to shared data
+share_data
